@@ -12,7 +12,7 @@ This repository explores the evolution of economic systems, societal structures,
 ## Contents
 - Articles and essays on societal and economic evolution.
 - Discussions on equity, gender, and belonging in macroeconomic contexts.
-- Weekly reflections connecting theory with real-world applications.
+- Reflections connecting theory with real-world applications.
 
 ## Goals
 - Inspire critical thinking about the interconnectedness of society and systems.
